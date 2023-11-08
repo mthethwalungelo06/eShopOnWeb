@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: ee5ea2b5-309e-445c-a843-381fefb5da0d
-  WEBAPP-NAME: az400-webapp-lungelo
+  WEBAPP-NAME: az400-webapplungelo
 
 
 jobs:
